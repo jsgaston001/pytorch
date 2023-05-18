@@ -1,0 +1,5 @@
+installing
+https://pytorch.org/cppdocs/installing.html
+
+buiding layers
+https://pytorch.org/tutorials/beginner/introyt/modelsyt_tutorial.html
